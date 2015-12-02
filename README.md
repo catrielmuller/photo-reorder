@@ -19,6 +19,12 @@ sudo apt-get update
 sudo apt-get install libimage-exiftool-perl
 ```
 
+__Arch Linux:__
+
+```
+sudo pacman -S perl-image-exiftool
+```
+
 ## Use
 
 ```
