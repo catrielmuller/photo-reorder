@@ -1,0 +1,20 @@
+{
+  "name": "photo-reorder",
+  "description": "Photo Reorder",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Catriel Müller",
+      "email": "catrielmuller@gmail.com",
+      "web": "http://kei.ninja"
+    }
+  ],
+  "dependencies": {
+    "commander": "*",
+    "file": "*",
+    "exiftool": "*",
+    "fs": "*",
+    "fs-extra": "*",
+    "moment": "*"
+  }
+}
